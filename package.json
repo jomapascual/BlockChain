@@ -2,7 +2,7 @@
   "name": "BlockChain",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "src/main.js",
   "dependencies": {
     "elliptic": "^6.5.4",
     "crypto-js": "^4.0.0"
@@ -11,7 +11,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "blockchain"
+  ],
   "author": "",
   "license": "ISC"
 }
